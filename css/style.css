@@ -5449,7 +5449,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #007bff !important; }
+  border-color: #7ab9fd !important; }
 
 .border-secondary {
   border-color: #6c757d !important; }
@@ -8813,7 +8813,7 @@ h1, h2, h3, h4, h5,
   overflow: visible; }
 
 .progress-bar {
-  background: #3e64ff;
+  background: #cde9ff;
   -webkit-box-shadow: none;
   box-shadow: none;
   font-size: 12px;
